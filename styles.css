@@ -1,0 +1,29 @@
+body {
+  line-height: 1.61;
+  max-width: 700px;
+  margin: 0 auto;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+  text-align: justify
+}
+
+a {
+  text-decoration: none;
+  color: #219588;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  font-size: 12px;
+  text-align: center;
+}
+
+hr {
+  border-top: 1px solid #ccc
+}
